@@ -18,5 +18,5 @@
 
 ### Contact 
 [Telegram](https://t.me/gjoygo)<br/>
-My Maill - vladislav.kori@yandex.ru
+My Maill - vladislav.kori@yandex.ru<br/>
 ```Warrning, i often check telegram```
