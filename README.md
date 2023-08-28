@@ -20,3 +20,7 @@
 [Telegram](https://t.me/gjoygo)<br/>
 My Maill - vladislav.kori@yandex.ru<br/>
 ```Warrning, i often check telegram```
+
+### My socials
+[CodeSandbox](https://codesandbox.io/u/VladislavKori)<br/>
+[YouTube](https://www.youtube.com/@mixdurka)<br/>
