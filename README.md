@@ -11,7 +11,9 @@ function getHSkills(): string[] {
 }
 
 function aboutMe(): string {
-  return "I don't know what to write about me. I'll say this, I want the world to be a better place, so I'm trying to improve it."
+  return `I don't know what to write about me.
+   I'll say this, I want the world to be a better place,
+   so I'm trying to improve it.`
 }
 ```
 ---
