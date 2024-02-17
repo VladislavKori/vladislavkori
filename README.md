@@ -2,9 +2,6 @@
 
 ``` My name is Vladislav, I`m Full-Stack developer from Russia```
 
----
-
-### Hard Skills
 ```ts 
 function getHSkills(): string[] {
   return ["TS", "Vue", "React", "Docker", "git"]
