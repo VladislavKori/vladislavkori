@@ -1,4 +1,4 @@
-# 🌜 Good night =)
+# 🌜 Good night
 
 ``` My name is Vladislav, I`m Full-Stack developer from Russia```
 
