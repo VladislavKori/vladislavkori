@@ -17,7 +17,6 @@ function aboutMe(): string {
 
 ### Contact
 [Telegram](https://t.me/gjoygo)<br/>
-My Maill - vladislav.kori@yandex.ru<br/>
 ```Warrning, i often check telegram```
 
 ### My socials
