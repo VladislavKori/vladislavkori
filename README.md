@@ -17,7 +17,6 @@ function aboutMe(): string {
 
 ### Contact
 [Telegram](https://t.me/gjoygo)<br/>
-```Warrning, i often check telegram```
 
 ### My socials
 [CodeSandbox](https://codesandbox.io/u/VladislavKori)<br/>
