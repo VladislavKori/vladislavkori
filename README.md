@@ -7,10 +7,16 @@ function getHSkills(): string[] {
   return ["TS", "Vue", "React", "Docker", "git"]
 }
 
-function aboutMe(): string {
+function getAboutMe(): string {
   return `I don't know what to write about me.
    I'll say this, I want the world to be a better place,
    so I'm trying to improve it.`
+}
+
+function getProjects(): Array<{ name: string, link: string }> {
+  return [
+    { name: "DonateHelper", link: "https://donatehelper.com" },
+  ]
 }
 ```
 ---
